@@ -15,4 +15,5 @@
 - Inserted text into speech
 
 ## Screenshots
-<p><img src="Kotha.JPG" width="300" height="500">      <img src="kotha_2.JPG" width="300" height="500"></p>
+<p><img src="Kotha.JPG" width="600" height="500">   </p>
+<p>   <img src="kotha_2.JPG" width="600" height="500"></p>
